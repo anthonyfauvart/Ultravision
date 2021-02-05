@@ -21,7 +21,11 @@ h1 {
 }
 
 h2 {
-  /* Default font, size, and margins */
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  color: var(--purple-brown);
 }
 
 h3 {
@@ -58,6 +62,7 @@ a:hover {
   text-align: center;
   font-weight: 900;
   line-height: 1;
+  font-family: "poppins";
 }
 
 .header-subtitle {
@@ -69,7 +74,7 @@ a:hover {
   text-align: center;
   font-weight: 900;
   line-height: 1;
-
+  font-family: "poppins";
 }
 
 .header-stripe--red {
@@ -88,9 +93,10 @@ a:hover {
   height: 8px;
   background-color: #6236FF;
   margin: 8px 0;
+
 }
 
-/**
+ 
 * ------
 * Layout
 * ------
