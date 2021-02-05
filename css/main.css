@@ -7,6 +7,7 @@
 
 body {
   /* Default font family and font color */
+
 }
 
 p, li, textarea, label, input, select {
@@ -48,7 +49,54 @@ a:hover {
   /* Link color on mouse over */
 }
 
+.title{
+margin: 8px 0;
+padding: 15px;
+background-color: #fcce00bd;
+color: #ffffff;
+text-align: center;
+font-weight: 900;
+line-height: 1;
+font-size: 88px;
+font-family: 'Poppins-Black';
+width: 1440px;
+height: 128px;
+}
 
+.section-title{
+  margin: 8px 0;
+  padding: 15px;
+  background-color: #ff6b00bd;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 900;
+  line-height: 1;
+  font-size: 38px;
+  font-family: 'Poppins-Black';
+  width: 1440px;
+  height: 64px;
+}
+
+.boxred{
+ width: 1440px;
+ height: 32px;
+ margin: 8px 0;
+ background-color: #ff1100d5;
+}
+
+.boxviolet{
+  width: 1440px;
+  height: 16px;
+  margin: 8px 0;
+  background-color: #9900ffd5;
+ }
+
+ .boxbleu{
+  width: 1440px;
+  height: 8px;
+  margin: 8px 0;
+  background-color: #3700ffd5;
+ }
 /**
 * ------
 * Layout
