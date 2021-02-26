@@ -128,6 +128,17 @@ display: block;
 margin: 0px 0px 0px 32px;
 }
 
+.bouton1 {
+width: 185px;
+height: 48px;
+margin: 30px 32px 86px 503px;
+padding: 10px 36px;
+border-radius: 15px;
+border: solid 4px;
+color: #eec50ee7;
+font-size: 20px;
+}
+
 .separation{
 
 margin: 40px 0px 0px 0px;
@@ -141,6 +152,16 @@ display: block;
 margin: 0px 33px 0px 0px;
 }
 
+.bouton2 {
+width: 185px;
+height: 48px;
+margin: 30px 32px 86px 503px;
+padding: 10px 36px;
+border-radius: 15px;
+border: solid 4px;
+color: #eb6608ec;
+font-size: 20px;
+}
 
 
 
