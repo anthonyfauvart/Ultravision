@@ -21,12 +21,15 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  color: #0f0f0f;
   font-size: 40px;
-  font-weight: 900;
   text-align: center;
-  color: var(--purple-brown);
+  font-weight: bold;
+  margin: 64px 216px 64px 231px;
 }
+  
+}
+
 
 h3 {
   
@@ -96,7 +99,73 @@ a:hover {
 
 }
 
- 
+.bloc{
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.titre-para {
+margin: 0 31px 34px 0;
+font-size: 24px;
+font-weight: bold;
+text-align: center;
+}
+
+.para1{
+width: 640px;
+height: 184px;
+margin: 34px 32px 164px 48px;
+font-size: 16px;
+text-align: justify;
+}
+
+.ordinateur-1 {
+width: 720px;
+height: 512px;
+mix-blend-mode: darken;
+display: block;
+margin: 0px 0px 0px 32px;
+}
+
+.separation{
+
+margin: 40px 0px 0px 0px;
+}
+
+.ordinateur-2 {
+width: 720px;
+height: 512px;
+mix-blend-mode: darken;
+display: block;
+margin: 0px 33px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * ------
 * Layout
 * ------
