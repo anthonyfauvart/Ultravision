@@ -6,7 +6,9 @@
 */
 
 
-.body{}
+.body{
+ height: 100%;
+}
 
 p, li, textarea, label, input, select {
   /* Default font size and line height */
@@ -50,10 +52,14 @@ h5{
 
 h6 {
   font-family:"Poppins";
-  font-size: 25px;
-  color: white;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
   background-color: black;
   text-align:center;
+  
+}
+
+.form-style{font-size: 20px;
 }
 
 
@@ -306,6 +312,7 @@ margin: -300px 0px 0px 700px;
 }
 
 
+  
 
 
 
