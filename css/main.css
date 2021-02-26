@@ -56,7 +56,6 @@ h6 {
   color: rgb(255, 255, 255);
   background-color: black;
   text-align:center;
-  
 }
 
 .form-style{font-size: 20px;
@@ -154,7 +153,6 @@ font-size: 20px;
 }
 
 .separation{
-
 margin: 40px 0px 0px 0px;
 }
 
@@ -215,7 +213,6 @@ font-size: 20px;
 }
 
 .para2 {
-
 font-size: 30px;
 text-align: justify;
 color: #FFFFFF ;
@@ -303,7 +300,6 @@ margin: -300px 0px 0px 700px;
   background-color: #6236ff;
 }
 
-
 .grille{
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
@@ -311,20 +307,10 @@ margin: -300px 0px 0px 700px;
   margin: 32px 32px;
 }
 
-
-  
-
-
-
-
-
-
 * ------
 * Layout
 * ------
 */
-
-
 
   
 /**
